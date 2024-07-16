@@ -4,7 +4,7 @@ title: Puzzles Reloaded
 permalink: /puzzles/
 ---
 
-Puzzles Reloaded is an iOS implementation of the [Simon Tatham Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+Puzzles Reloaded is an iOS implementation of the [Simon Tatham Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/). In addition to the 40 games in the main collection, an additional 10 have been added from a set of new puzzles by [x-sheep](https://github.com/x-sheep)
 
 ## Screenshots
 
@@ -16,6 +16,9 @@ Puzzles Reloaded is an iOS implementation of the [Simon Tatham Portable Puzzle C
 
 All code for this app is MIT-Licensed and can be found on Github: [Puzzles Reloaded Code](https://github.com/KyleDSwarner/puzzles-reloaded)
 
+### Privacy Policy
+
+A separate page outling everything can be found here: [Privacy Policy](/puzzles/privacy)
 
 ### Special Thanks
 
